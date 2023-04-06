@@ -19,7 +19,7 @@ We've created `Breeds` and `BreedCard` components, and a `BreedsService` that's 
 2. Implement a loading state for the `Breeds` component. Don't worry too much about any fancy styling, you can just have it say 'Loading Dogs...' on the screen while it is fetching data.
 3. Wire up the 'Load More' button so that it fetches the next batch of dog breeds and adds them on to the list.
 4. When there are no more dog breeds left to fetch, instead of the 'Load More' button there should be a message letting the user know there are no more dog breeds.
-> Feel free to update the styling and create new components, hooks, utility functions or anything as you see fit.
+>  :bulb: **Note:** Feel free to update the styling and create new components, hooks, utility functions or anything as you see fit.
 
 ### Bonuses
 ---

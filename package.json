@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "17.6.0"
+    "node": "18.12.1"
   },
   "name": "dogs",
   "version": "0.1.0",
